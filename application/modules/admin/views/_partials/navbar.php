@@ -13,10 +13,10 @@
 			<div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
 				<span class="dropdown-item dropdown-header"><?php echo $user->first_name; ?></span>
 				<div class="dropdown-divider"></div>
-				<a href="#" class="dropdown-item dropdown-footer col-md-6">
+				<a href="#" class="dropdown-item dropdown-footer col-md-6"></a>
 					<a href="panel/account" class="btn btn-default">Account</a>
 					<a href="panel/logout" class="btn btn-default float-right">Sign out</a>
-				</a>
+				
 			</div>
 		</li>
 	</ul>
